@@ -1,0 +1,8 @@
+{
+  "name": "Raja Mampet Ryan Bali",
+  "description": "Professional landing page for Raja Mampet Ryan Bali with integrated admin dashboard for content management and AI-powered copy assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
